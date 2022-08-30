@@ -48,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661756906243</updated>
       <workItem from="1661756907330" duration="202000" />
-      <workItem from="1661757116429" duration="3488000" />
+      <workItem from="1661757116429" duration="4734000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1661757170164</created>
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661761696494</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init">
+      <created>1661763151378</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661763151378</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,10 +114,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="143" key="Vcs.Push.Dialog.v2" timestamp="1661761698590">
+    <state x="320" y="143" key="Vcs.Push.Dialog.v2" timestamp="1661763154459">
       <screen x="0" y="23" width="1440" height="760" />
     </state>
-    <state x="320" y="143" key="Vcs.Push.Dialog.v2/0.23.1440.760/1440.201.1920.1057@0.23.1440.760" timestamp="1661761698590" />
+    <state x="320" y="143" key="Vcs.Push.Dialog.v2/0.23.1440.760/1440.201.1920.1057@0.23.1440.760" timestamp="1661763154459" />
     <state x="518" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1661761612033">
       <screen x="0" y="23" width="1440" height="760" />
     </state>
