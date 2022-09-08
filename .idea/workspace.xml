@@ -10,14 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="986c579f-e659-4ec1-b935-4306b1adc20a" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/assets/bg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/lhz.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/wjy.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="986c579f-e659-4ec1-b935-4306b1adc20a" name="Default Changelist" comment="新增log">
+      <change beforePath="$PROJECT_DIR$/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661756906243</updated>
       <workItem from="1661756907330" duration="202000" />
-      <workItem from="1661757116429" duration="22895000" />
+      <workItem from="1661757116429" duration="23603000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1661757170164</created>
@@ -194,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662538169821</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="新增log">
+      <created>1662620863672</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1662620863672</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,14 +224,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="新增log" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增log" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="144" key="Vcs.Push.Dialog.v2" timestamp="1662538173239">
+    <state x="320" y="144" key="Vcs.Push.Dialog.v2" timestamp="1662620939550">
       <screen x="0" y="23" width="1440" height="767" />
     </state>
     <state x="320" y="143" key="Vcs.Push.Dialog.v2/0.23.1440.760/1440.201.1920.1057@0.23.1440.760" timestamp="1662105460638" />
-    <state x="320" y="144" key="Vcs.Push.Dialog.v2/0.23.1440.767/1440.201.1920.1057@0.23.1440.767" timestamp="1662538173239" />
+    <state x="320" y="144" key="Vcs.Push.Dialog.v2/0.23.1440.767/1440.201.1920.1057@0.23.1440.767" timestamp="1662620939550" />
     <state x="518" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1661761612033">
       <screen x="0" y="23" width="1440" height="760" />
     </state>
