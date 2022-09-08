@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width; initial-scale=1.0; maximum-scale=1; user-scalable=no;viewport-fit=cover"/>
+    <meta name="renderer" content="webkit|ie-comp|ie-stand"/>
+    <script src="./assets/jquery.min.js"></script>
+    <title>甜蜜日记</title>
+</head>
+<body>
+
+</body>
+<script>
+    let logs = [
+        {
+            time: '2022-08-29 11:30:00 day4',
+            wjy: '好的，老公',
+            lhz: '想给嘉熠讲一辈子的故事'
+        },
+        {
+            time: '2022-08-30 16:22:00 day5',
+            wjy: '阅',
+            lhz: '聊了许多关于婚后的一些憧憬'
+        },
+        {
+            time: '2022-08-31 18:31:00 day6',
+            wjy: '知道啦知道啦 两只耳朵都听到啦！！！',
+            lhz: ' <span style="text-decoration: line-through;color: #ff0000">关于王嘉熠是个大醋坛子这件事，我觉得 得好好纠正一下</span><br>发现王嘉熠新功能，猛钻<span>牛角尖</span>，钻进去还出不来的那种 <br>不管怎样，我都是<span style="color: #f53fb3;font-weight: 700">喜欢</span>你的，这点是不会变得。请对我的信任多一些好吗？'
+        },
+        {
+            time: '2022-09-01 09:06:00 day7',
+            wjy: '',
+            lhz: '谢谢你，王嘉熠，解开了我的心结。'
+        },
+        {
+            time: '2022-09-02 12:44:00 day8',
+            wjy: '有一天你聚餐，你隔壁楼的醉酒单身女同事来搭顺风车….',
+            lhz: '外面的女人都是老虎，她们都会害我哒。只有嘉熠媳妇好，她才是跟我过日子哒。'
+        },
+        {
+            time: '2022-09-05 14:19:00 day11',
+            wjy: ' 听我说：….',
+            lhz: '备孕计划，启动！'
+        },
+        {
+            time: '2022-09-06 10:24:00 day12',
+            wjy: '监督不力！！',
+            lhz: '晚上的王嘉熠："不要挂语音嘛，你是不是烦我了，总是催我睡觉"；早上的王嘉熠："呜呜呜，困死了，都怪你昨晚上不挂语音" 我："！！！！"'
+        },
+        {
+            time: '2022-09-07 17:49:00 day13',
+            wjy: '',
+            lhz: '王嘉熠也太可怜了吧，本以为不煲电话粥了，可以让她早睡一会，结果竟然被鼻炎折腾一晚上，摸摸头。<br>不怎么被搭理的一天，不知道为啥生气了。害。搞得我心里好难受。'
+        },
+        {
+            wjy: '《震惊十个女生九个都会生气的踩雷话术》'
+        }
+    ]
+    let html = ''
+    logs.forEach((item) => {
+        html += '<div class="log-item">'
+        html += item.time ? ('<div class="log-time">' + item.time + '</div>') : ''
+        if (item.lhz) {
+            html += '<div class="lhz log-info clearfix"><div class="lhz-avatar avatar"><img src="./assets/lhz.jpeg" alt=""></div><div class="msg wjy-msg">' + item.lhz + '</div>' + '</div>'
+        }
+        if (item.wjy) {
+            html += '<div class="wjy log-info clearfix"><div class="wjy-avatar avatar"><img src="./assets/wjy.jpeg" alt=""></div><div class="msg wjy-msg">' + item.wjy + '</div>' + '</div>'
+        }
+        html += '</div>'
+    })
+    $(document.body).append(html)
+</script>
+<style>
+    html, body {
+        margin: 0;
+        padding: 0;
+        background-color: #e7e7e7;
+        background: url('./assets/bg.jpeg');
+        background-size: 100% auto;
+        height: 100%;
+        width: 100%;
+        overflow: auto;
+    }
+
+    .clearfix:after {
+        visibility: hidden;
+        display: block;
+        font-size: 0;
+        content: " ";
+        clear: both;
+        height: 0;
+    }
+
+    .log-item {
+        margin-top: 20px;
+    }
+
+    .log-time {
+        text-align: center;
+        font-size: 14px;
+        color: #fff;
+        margin: 10px 0;
+    }
+
+    .log-info {
+        position: relative;
+        margin: 20px 0;
+        padding-left: 70px;
+    }
+
+    .avatar {
+        position: absolute;
+        left: 10px;
+        top: 0;
+        width: 40px;
+        height: 40px;
+    }
+
+    .avatar img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .msg {
+        background-color: #fff;
+        padding: 10px;
+        line-height: 20px;
+        max-width: calc(100% - 50px);
+        border-radius: 4px;
+        float: left;
+    }
+
+    .lhz.log-info {
+        padding-left: 0;
+        padding-right: 70px;
+    }
+
+    .lhz .avatar {
+        left: auto;
+        right: 10px;
+    }
+
+    .lhz .msg {
+        background-color: #90e764;
+        max-width: calc(100% - 50px);
+        float: right;
+    }
+</style>
+</html>

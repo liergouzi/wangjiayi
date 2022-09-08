@@ -11,6 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="986c579f-e659-4ec1-b935-4306b1adc20a" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/assets/bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/lhz.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/wjy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -18,6 +23,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,9 +40,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,6 +51,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -48,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661756906243</updated>
       <workItem from="1661756907330" duration="202000" />
-      <workItem from="1661757116429" duration="16540000" />
+      <workItem from="1661757116429" duration="22895000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1661757170164</created>
@@ -169,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662520349395</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="init">
+      <created>1662538169821</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1662538169821</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,11 +226,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="144" key="Vcs.Push.Dialog.v2" timestamp="1662520360683">
+    <state x="320" y="144" key="Vcs.Push.Dialog.v2" timestamp="1662538173239">
       <screen x="0" y="23" width="1440" height="767" />
     </state>
     <state x="320" y="143" key="Vcs.Push.Dialog.v2/0.23.1440.760/1440.201.1920.1057@0.23.1440.760" timestamp="1662105460638" />
-    <state x="320" y="144" key="Vcs.Push.Dialog.v2/0.23.1440.767/1440.201.1920.1057@0.23.1440.767" timestamp="1662520360683" />
+    <state x="320" y="144" key="Vcs.Push.Dialog.v2/0.23.1440.767/1440.201.1920.1057@0.23.1440.767" timestamp="1662538173239" />
     <state x="518" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1661761612033">
       <screen x="0" y="23" width="1440" height="760" />
     </state>
@@ -214,5 +239,9 @@
       <screen x="0" y="23" width="1440" height="767" />
     </state>
     <state x="421" y="129" width="598" height="548" key="find.popup/0.23.1440.767/1440.201.1920.1057@0.23.1440.767" timestamp="1661829440943" />
+    <state x="450" y="322" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1662618460281">
+      <screen x="0" y="23" width="1440" height="767" />
+    </state>
+    <state x="450" y="322" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.767/1440.201.1920.1057@0.23.1440.767" timestamp="1662618460281" />
   </component>
 </project>
