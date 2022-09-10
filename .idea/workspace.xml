@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="986c579f-e659-4ec1-b935-4306b1adc20a" name="Default Changelist" comment="新增log">
+    <list default="true" id="986c579f-e659-4ec1-b935-4306b1adc20a" name="Default Changelist" comment="修改背景色">
+      <change afterPath="$PROJECT_DIR$/assets/flower.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,11 +31,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2E1Ix1LWRwinJKZxwMYa2snldfA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -60,7 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1661756906243</updated>
       <workItem from="1661756907330" duration="202000" />
-      <workItem from="1661757116429" duration="23603000" />
+      <workItem from="1661757116429" duration="25633000" />
+      <workItem from="1662808691268" duration="1122000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1661757170164</created>
@@ -195,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662620863672</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="修改背景色">
+      <created>1662623214099</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1662623214099</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,18 +235,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init" />
     <MESSAGE value="新增log" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增log" />
+    <MESSAGE value="修改背景色" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改背景色" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="144" key="Vcs.Push.Dialog.v2" timestamp="1662620939550">
+    <state x="320" y="144" key="Vcs.Push.Dialog.v2" timestamp="1662623217347">
       <screen x="0" y="23" width="1440" height="767" />
     </state>
     <state x="320" y="143" key="Vcs.Push.Dialog.v2/0.23.1440.760/1440.201.1920.1057@0.23.1440.760" timestamp="1662105460638" />
-    <state x="320" y="144" key="Vcs.Push.Dialog.v2/0.23.1440.767/1440.201.1920.1057@0.23.1440.767" timestamp="1662620939550" />
+    <state x="320" y="144" key="Vcs.Push.Dialog.v2/0.23.1440.767/1440.201.1920.1057@0.23.1440.767" timestamp="1662623217347" />
     <state x="518" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1661761612033">
       <screen x="0" y="23" width="1440" height="760" />
     </state>
