@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="986c579f-e659-4ec1-b935-4306b1adc20a" name="Default Changelist" comment="格局" />
+    <list default="true" id="986c579f-e659-4ec1-b935-4306b1adc20a" name="Default Changelist" comment="格局">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +68,7 @@
       <workItem from="1662808691268" duration="2606000" />
       <workItem from="1663031736029" duration="6845000" />
       <workItem from="1663750089001" duration="401000" />
-      <workItem from="1663750675999" duration="1619000" />
+      <workItem from="1663750675999" duration="2428000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1661757170164</created>
@@ -299,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663840134259</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="格局">
+      <created>1663895949171</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1663895949171</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,10 +346,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="格局" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="142" key="Vcs.Push.Dialog.v2" timestamp="1663840156997">
+    <state x="308" y="149" key="IDE.errors.dialog" timestamp="1663895970046">
       <screen x="0" y="23" width="1440" height="752" />
     </state>
-    <state x="320" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.752/1440.201.1920.1057@0.23.1440.752" timestamp="1663840156997" />
+    <state x="308" y="149" key="IDE.errors.dialog/0.23.1440.752/1440.201.1920.1057@0.23.1440.752" timestamp="1663895970046" />
+    <state x="320" y="142" key="Vcs.Push.Dialog.v2" timestamp="1663895952362">
+      <screen x="0" y="23" width="1440" height="752" />
+    </state>
+    <state x="320" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.752/1440.201.1920.1057@0.23.1440.752" timestamp="1663895952362" />
     <state x="320" y="143" key="Vcs.Push.Dialog.v2/0.23.1440.760/1440.201.1920.1057@0.23.1440.760" timestamp="1663148516925" />
     <state x="320" y="144" key="Vcs.Push.Dialog.v2/0.23.1440.767/1440.201.1920.1057@0.23.1440.767" timestamp="1662623217347" />
     <state x="320" y="144" key="Vcs.Push.Dialog.v2/0.23.1440.767@0.23.1440.767" timestamp="1662824777661" />
