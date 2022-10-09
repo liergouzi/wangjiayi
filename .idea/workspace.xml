@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="986c579f-e659-4ec1-b935-4306b1adc20a" name="Default Changelist" comment="格局">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
-    </list>
+    <list default="true" id="986c579f-e659-4ec1-b935-4306b1adc20a" name="Default Changelist" comment="格局" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +69,7 @@
       <workItem from="1663750675999" duration="3076000" />
       <workItem from="1664155088137" duration="4569000" />
       <workItem from="1664778943424" duration="342000" />
-      <workItem from="1664972139002" duration="466000" />
+      <workItem from="1664972139002" duration="496000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1661757170164</created>
@@ -361,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664779270465</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="格局">
+      <created>1664972611275</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1664972611275</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,20 +399,20 @@
     <MESSAGE value="新增log" />
     <MESSAGE value="修改背景色" />
     <MESSAGE value="奔现" />
-    <MESSAGE value="格局" />
     <MESSAGE value="国庆" />
-    <option name="LAST_COMMIT_MESSAGE" value="国庆" />
+    <MESSAGE value="格局" />
+    <option name="LAST_COMMIT_MESSAGE" value="格局" />
   </component>
   <component name="WindowStateProjectService">
     <state x="308" y="149" key="IDE.errors.dialog" timestamp="1663895970046">
       <screen x="0" y="23" width="1440" height="752" />
     </state>
     <state x="308" y="149" key="IDE.errors.dialog/0.23.1440.752/1440.201.1920.1057@0.23.1440.752" timestamp="1663895970046" />
-    <state x="320" y="141" key="Vcs.Push.Dialog.v2" timestamp="1664779274377">
+    <state x="320" y="141" key="Vcs.Push.Dialog.v2" timestamp="1664972614037">
       <screen x="0" y="23" width="1440" height="749" />
     </state>
     <state x="320" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.749/1440.201.1920.1057@0.23.1440.749" timestamp="1663913337006" />
-    <state x="320" y="141" key="Vcs.Push.Dialog.v2/0.23.1440.749@0.23.1440.749" timestamp="1664779274377" />
+    <state x="320" y="141" key="Vcs.Push.Dialog.v2/0.23.1440.749@0.23.1440.749" timestamp="1664972614037" />
     <state x="320" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.752/1440.201.1920.1057@0.23.1440.752" timestamp="1664331081025" />
     <state x="320" y="143" key="Vcs.Push.Dialog.v2/0.23.1440.760/1440.201.1920.1057@0.23.1440.760" timestamp="1664520443622" />
     <state x="320" y="144" key="Vcs.Push.Dialog.v2/0.23.1440.767/1440.201.1920.1057@0.23.1440.767" timestamp="1662623217347" />
