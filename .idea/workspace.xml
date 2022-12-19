@@ -91,14 +91,8 @@
       <workItem from="1670290093882" duration="22000" />
       <workItem from="1670410197766" duration="330000" />
       <workItem from="1670461665201" duration="577000" />
-      <workItem from="1670823040954" duration="755000" />
-    </task>
-    <task id="LOCAL-00021" summary="奔现">
-      <created>1662823667972</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1662823667972</updated>
+      <workItem from="1670823040954" duration="2236000" />
+      <workItem from="1671446185681" duration="1164000" />
     </task>
     <task id="LOCAL-00022" summary="奔现">
       <created>1662823799635</created>
@@ -436,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670410507647</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="膝盖">
+      <created>1670823801321</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1670823801321</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,39 +481,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="膝盖" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1671446265374">
+      <screen x="0" y="23" width="1440" height="773" />
+    </state>
+    <state x="184" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.773@0.23.1440.773" timestamp="1671446265374" />
     <state x="308" y="149" key="IDE.errors.dialog" timestamp="1663895970046">
       <screen x="0" y="23" width="1440" height="752" />
     </state>
     <state x="308" y="149" key="IDE.errors.dialog/0.23.1440.752/1440.201.1920.1057@0.23.1440.752" timestamp="1663895970046" />
-    <state x="320" y="140" key="Vcs.Push.Dialog.v2" timestamp="1670410510559">
+    <state x="320" y="140" key="Vcs.Push.Dialog.v2" timestamp="1670824097755">
       <screen x="0" y="23" width="1440" height="742" />
     </state>
     <state x="320" y="141" key="Vcs.Push.Dialog.v2/0.23.1440.742/1440.201.1920.1057@0.23.1440.742" timestamp="1669954763711" />
-    <state x="320" y="140" key="Vcs.Push.Dialog.v2/0.23.1440.742@0.23.1440.742" timestamp="1670410510559" />
+    <state x="320" y="140" key="Vcs.Push.Dialog.v2/0.23.1440.742@0.23.1440.742" timestamp="1670824097755" />
     <state x="320" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.749/1440.201.1920.1057@0.23.1440.749" timestamp="1667901566453" />
     <state x="320" y="141" key="Vcs.Push.Dialog.v2/0.23.1440.749@0.23.1440.749" timestamp="1664972614037" />
     <state x="320" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.752/1440.201.1920.1057@0.23.1440.752" timestamp="1666949533369" />
     <state x="320" y="143" key="Vcs.Push.Dialog.v2/0.23.1440.752@0.23.1440.752" timestamp="1670238403076" />
     <state x="320" y="143" key="Vcs.Push.Dialog.v2/0.23.1440.760/1440.201.1920.1057@0.23.1440.760" timestamp="1669285371291" />
     <state x="320" y="144" key="Vcs.Push.Dialog.v2/0.23.1440.760@0.23.1440.760" timestamp="1669118026290" />
-    <state x="320" y="144" key="Vcs.Push.Dialog.v2/0.23.1440.767/1440.201.1920.1057@0.23.1440.767" timestamp="1662623217347" />
     <state x="320" y="144" key="Vcs.Push.Dialog.v2/0.23.1440.767@0.23.1440.767" timestamp="1662824777661" />
     <state x="518" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1669950281661">
       <screen x="0" y="23" width="1440" height="742" />
     </state>
     <state x="518" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.742/1440.201.1920.1057@0.23.1440.742" timestamp="1669950281661" />
-    <state x="421" y="129" width="598" height="548" key="find.popup" timestamp="1661829440943">
-      <screen x="0" y="23" width="1440" height="767" />
-    </state>
-    <state x="421" y="129" width="598" height="548" key="find.popup/0.23.1440.767/1440.201.1920.1057@0.23.1440.767" timestamp="1661829440943" />
     <state x="385" y="95" width="670" height="670" key="search.everywhere.popup" timestamp="1669943484796">
       <screen x="0" y="23" width="1440" height="742" />
     </state>
     <state x="385" y="95" width="670" height="670" key="search.everywhere.popup/0.23.1440.742/1440.201.1920.1057@0.23.1440.742" timestamp="1669943484796" />
     <state x="385" y="96" width="670" height="676" key="search.everywhere.popup/0.23.1440.749/1440.201.1920.1057@0.23.1440.749" timestamp="1667812534290" />
-    <state x="450" y="322" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1662618460281">
-      <screen x="0" y="23" width="1440" height="767" />
-    </state>
-    <state x="450" y="322" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.767/1440.201.1920.1057@0.23.1440.767" timestamp="1662618460281" />
   </component>
 </project>
