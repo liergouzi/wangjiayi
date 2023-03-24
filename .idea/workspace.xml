@@ -10,8 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="986c579f-e659-4ec1-b935-4306b1adc20a" name="Default Changelist" comment="疫情">
+    <list default="true" id="986c579f-e659-4ec1-b935-4306b1adc20a" name="Default Changelist" comment="删除">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/save2.html" beforeDir="false" afterPath="$PROJECT_DIR$/save2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,13 +103,8 @@
       <workItem from="1670461665201" duration="577000" />
       <workItem from="1670823040954" duration="2236000" />
       <workItem from="1671446185681" duration="16381000" />
-    </task>
-    <task id="LOCAL-00025" summary="格局">
-      <created>1663147759084</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1663147759084</updated>
+      <workItem from="1672105723907" duration="1287000" />
+      <workItem from="1679644051877" duration="3007000" />
     </task>
     <task id="LOCAL-00026" summary="格局">
       <created>1663318399274</created>
@@ -446,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671787007282</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="删除">
+      <created>1672105777650</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1672105777650</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,38 +491,24 @@
     <MESSAGE value="生日快乐" />
     <MESSAGE value="膝盖" />
     <MESSAGE value="疫情" />
-    <option name="LAST_COMMIT_MESSAGE" value="疫情" />
+    <MESSAGE value="删除" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1671446265374">
       <screen x="0" y="23" width="1440" height="773" />
     </state>
     <state x="184" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.773@0.23.1440.773" timestamp="1671446265374" />
-    <state x="308" y="149" key="IDE.errors.dialog" timestamp="1663895970046">
-      <screen x="0" y="23" width="1440" height="752" />
+    <state x="320" y="141" key="Vcs.Push.Dialog.v2" timestamp="1672107883068">
+      <screen x="0" y="23" width="1440" height="742" />
     </state>
-    <state x="308" y="149" key="IDE.errors.dialog/0.23.1440.752/1440.201.1920.1057@0.23.1440.752" timestamp="1663895970046" />
-    <state x="320" y="144" key="Vcs.Push.Dialog.v2" timestamp="1671787009636">
-      <screen x="0" y="23" width="1440" height="760" />
-    </state>
-    <state x="320" y="141" key="Vcs.Push.Dialog.v2/0.23.1440.742/1440.201.1920.1057@0.23.1440.742" timestamp="1669954763711" />
-    <state x="320" y="140" key="Vcs.Push.Dialog.v2/0.23.1440.742@0.23.1440.742" timestamp="1670824097755" />
-    <state x="320" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.749/1440.201.1920.1057@0.23.1440.749" timestamp="1667901566453" />
-    <state x="320" y="141" key="Vcs.Push.Dialog.v2/0.23.1440.749@0.23.1440.749" timestamp="1664972614037" />
-    <state x="320" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.752/1440.201.1920.1057@0.23.1440.752" timestamp="1666949533369" />
+    <state x="320" y="141" key="Vcs.Push.Dialog.v2/0.23.1440.742/1440.201.1920.1057@0.23.1440.742" timestamp="1672107883068" />
     <state x="320" y="143" key="Vcs.Push.Dialog.v2/0.23.1440.752@0.23.1440.752" timestamp="1671547987767" />
-    <state x="320" y="143" key="Vcs.Push.Dialog.v2/0.23.1440.760/1440.201.1920.1057@0.23.1440.760" timestamp="1669285371291" />
     <state x="320" y="144" key="Vcs.Push.Dialog.v2/0.23.1440.760@0.23.1440.760" timestamp="1671787009636" />
-    <state x="320" y="144" key="Vcs.Push.Dialog.v2/0.23.1440.767@0.23.1440.767" timestamp="1662824777661" />
     <state x="320" y="145" key="Vcs.Push.Dialog.v2/0.23.1440.773@0.23.1440.773" timestamp="1671512428576" />
-    <state x="518" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1669950281661">
-      <screen x="0" y="23" width="1440" height="742" />
+    <state x="385" y="142" width="670" height="676" key="search.everywhere.popup" timestamp="1679646473299">
+      <screen x="0" y="23" width="1440" height="795" />
     </state>
-    <state x="518" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.742/1440.201.1920.1057@0.23.1440.742" timestamp="1669950281661" />
-    <state x="385" y="95" width="670" height="670" key="search.everywhere.popup" timestamp="1669943484796">
-      <screen x="0" y="23" width="1440" height="742" />
-    </state>
-    <state x="385" y="95" width="670" height="670" key="search.everywhere.popup/0.23.1440.742/1440.201.1920.1057@0.23.1440.742" timestamp="1669943484796" />
-    <state x="385" y="96" width="670" height="676" key="search.everywhere.popup/0.23.1440.749/1440.201.1920.1057@0.23.1440.749" timestamp="1667812534290" />
+    <state x="385" y="142" width="670" height="676" key="search.everywhere.popup/0.23.1440.795/1440.201.1920.1057@0.23.1440.795" timestamp="1679646473299" />
   </component>
 </project>
